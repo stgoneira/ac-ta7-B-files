@@ -12,7 +12,11 @@ Ejecute el siguiente comando para instalar las librerías:
 pip install -r requirements.txt
 ```
 
-Por defecto utiliza el puerto 5000.
+Por defecto utiliza el puerto 5000 al ejecutar.
+
+```
+python app.py
+```
 
 Puede probar el programa con curl de la siguiente manera, reemplazando "imagen.jpg" por el nombre de su archivo y modificando las dimensiones por las deseadas. 
 
